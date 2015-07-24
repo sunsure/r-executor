@@ -1,0 +1,12 @@
+Package: Executor
+Type: Package
+Title: Distributed R for Big Data
+Version: 1.2.0
+Date: 2015-01-16
+Author: HP Vertica Analytics Team
+Maintainer:  HP Vertica Analytics Team <distributedRTeam@external.groups.hp.com>
+Description: Distributed R for Big Data
+License: GPLv2
+LazyLoad: yes
+Depends: Rcpp (>= 0.11.0), RInside (>= 0.2.11),R (>= 3.0.0) 
+LinkingTo: Rcpp, RInside
